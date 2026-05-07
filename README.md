@@ -20,3 +20,8 @@ Here are some ideas to get you started:
 - What is a "Good Service"?
 - So, what does the world truly need? 🤔
 
+---
+  
+  <p align="right">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=16&pause=1000&color=666666&center=true&vCenter=false&width=300&lines=Don't+Panic.;" />
+  </p>

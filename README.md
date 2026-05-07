@@ -1,4 +1,3 @@
-## Hi there 👋
 
 <!--
 **erdoslibrary/erdoslibrary** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +13,10 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+## 🚀 I’m a Code-hiker on a journey.
+- What is "Fun Code"? 
+- What is a "Fun Program"?
+- What is a "Good Service"?
+- So, what does the world truly need? 🤔
+
